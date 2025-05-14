@@ -1,5 +1,5 @@
 script{
-    display: none;
+    display: flex;
 }
 body{     text_defaults_md: .css 20px;font-family: 'segoe UI',
 Tahoma, sana-serif;
@@ -266,3 +266,4 @@ html {
     --ntp-module-secondary-line-height: 16px;
     --ntp-module-see-more-font-weight: 500;
 }
+
